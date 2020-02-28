@@ -1,5 +1,5 @@
 public class HelloWorld{
  public static void main(String[] args){
-	System.out.println("======******Poll from SCM******======");
+	System.out.println("======****** New Poll from SCM******======");
   }
 }
